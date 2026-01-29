@@ -52,7 +52,7 @@ The executive management at Olist wants to improve customer satisfaction and ope
 
 🖥️ Desktop Dashboard
 
-![Desktop Dashboard](Dashboard/dashboard.png)
+![Desktop Dashboard](Dashboard/Dashboard.png)
 
 📂 Files Included
 
