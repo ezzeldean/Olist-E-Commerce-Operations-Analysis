@@ -1,3 +1,5 @@
+![Project Cover](project_cover.png)
+
 # 🇧🇷 Olist E-Commerce Operations Analysis
 
 ## 📌 Project Overview
