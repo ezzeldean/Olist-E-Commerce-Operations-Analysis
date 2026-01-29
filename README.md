@@ -44,9 +44,9 @@ The executive management at Olist wants to improve customer satisfaction and ope
 
 ## 📊 Key Insights (The Story)
 
-**01. Logistics Challenge:** The delivery delay rate is 7.87%. While acceptable, this represents a significant number of unhappy customers.
-**02. Revenue Drivers:* The top revenue-generating categories are "Health & Beauty" and "Watches". These are high-value, easy-to-ship items.
-**03. Payment Strategy:** Credit Cards are the dominant payment method (75%+). Interestingly, credit card orders have a **higher Average Order Value ($163)** compared to Cash/Boleto ($145), suggesting that installment options encourage higher spending.
+01. **Logistics Challenge:** The delivery delay rate is 7.87%. While acceptable, this represents a significant number of unhappy customers.
+02. **Revenue Drivers:** The top revenue-generating categories are "Health & Beauty" and "Watches". These are high-value, easy-to-ship items.
+03. **Payment Strategy:** Credit Cards are the dominant payment method (75%+). Interestingly, credit card orders have a **higher Average Order Value ($163)** compared to Cash/Boleto ($145), suggesting that installment options encourage higher spending.
 
 📷 Project Visuals
 
