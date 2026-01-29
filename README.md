@@ -20,7 +20,7 @@ The executive management at Olist wants to improve customer satisfaction and ope
 
 **Key Questions:**
 
-01.Logistics: Are we delivering on time? What is the delay rate?
+01. Logistics: Are we delivering on time? What is the delay rate?
 02. Sales Performance: Which product categories are driving revenue?
 03. Payment Behavior: How do customers prefer to pay? Does installment payment affect basket size?
 
